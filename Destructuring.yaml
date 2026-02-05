@@ -1,0 +1,67 @@
+# Creating a madeinuxstudio
+
+npms
+gsap ✅
+locomotive ✅
+framer motion ✅
+tailwind css ✅
+
+components 
+# Common
+Header  ✅
+Footer ✅
+# Common
+
+Loader  ✅
+image components  ✅
+Ourprofile ✅
+ClientFeedback ✅
+
+
+
+pages
+ 
+Home ✅
+Section
+HeroSections
+FeaturedWork
+Ideaimpact
+ClientFeedback = Reuse Ourprofile reuse
+AboutMiux
+inquring
+Footer
+
+
+Work ✅
+Section
+WorkSection
+Footer
+
+
+Aboutus ✅
+Section
+Aboutus = Slider
+Ourmission
+Ourservices = Ourprofilecard reuse
+Ourprocess
+Ourteam = Ourprofile reuse
+ClientFeedback = Reuse
+OurLOcation
+Footer
+
+
+
+
+Contact  ✅
+Section
+LetsTalk
+Footer
+
+
+Hooks ✅
+SmoothScrolling
+
+
+
+
+
