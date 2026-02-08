@@ -4,8 +4,10 @@ import Work from './pages/Work/Work'
 
 const App = () => {
   return (
-    <div>
+    <div className='h-full w-full bg-[#F7F3ED]'>
       <Home/>
+      <Work/>
+      <div className='h-screen w-full bg-blue-500'></div>
       
     </div>
   )

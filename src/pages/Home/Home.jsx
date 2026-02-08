@@ -1,8 +1,12 @@
 import React from 'react'
+import HeroSections from './Section/HeroSections'
 
 const Home = () => {
   return (
-    <div className='h-screen w-full bg-[#F7F3ED]'>
+    <div className='h-full w-full'>
+
+        <HeroSections/>
+
 
       
     </div>

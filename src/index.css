@@ -7,3 +7,12 @@
 
 }
 
+@font-face {
+  font-family:Actay ;
+  src: url(/public/Assets/Fonts/Actay.ttf);
+}
+
+.Actay{
+  font-family: Actay;
+}
+
